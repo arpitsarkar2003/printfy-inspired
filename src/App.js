@@ -1,10 +1,11 @@
 
 import './App.css';
+import HomePage from './HomePage';
 
 function App() {
   return (
     <div className="App">
-      <h1>Printify Inspired</h1>
+      <HomePage/>
     </div>
   );
 }
