@@ -2,7 +2,9 @@ import React from 'react'
 
 function Banner2() {
   return (
-    <div>Banner2</div>
+    <div className='flex items-center justify-center '>
+      <img  src='/banner2.png'/>
+    </div>
   )
 }
 
